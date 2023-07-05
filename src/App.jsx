@@ -13,8 +13,8 @@ function App() {
       <Header />
       <Main>
         <Routes>
-          <Route path="/" element={<HomePage countries={countries} setCountries={setCountries} />}/>
-          <Route path="/country/:name" element={<Details />} />
+          <Route path="/countries-frontend-mentor/" element={<HomePage countries={countries} setCountries={setCountries} />}/>
+          <Route path="/countries-frontend-mentor/country/:name" element={<Details />} />
           <Route element={<NotFound />} />
         </Routes>       
       </Main>

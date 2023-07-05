@@ -53,7 +53,7 @@ const HomePage = ({ countries, setCountries }) => {
                     ]
                 };
                 return (
-                    <Card key={c.name} onClick={() => navigate(`/country/${c.name}`)} {...countryInfo}/>
+                    <Card key={c.name} onClick={() => navigate(`/countries-frontend-mentor/country/${c.name}`)} {...countryInfo}/>
                 )
                 })
             }
