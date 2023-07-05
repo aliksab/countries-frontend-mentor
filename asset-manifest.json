@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/countries-frontend-mentor/static/css/main.202dd22a.css",
+    "main.js": "/countries-frontend-mentor/static/js/main.22bb5d6a.js",
+    "index.html": "/countries-frontend-mentor/index.html",
+    "main.202dd22a.css.map": "/countries-frontend-mentor/static/css/main.202dd22a.css.map",
+    "main.22bb5d6a.js.map": "/countries-frontend-mentor/static/js/main.22bb5d6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.202dd22a.css",
+    "static/js/main.22bb5d6a.js"
+  ]
+}
